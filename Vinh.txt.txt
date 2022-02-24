@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 my name is vinh
+=======
+hello every one
+>>>>>>> branch_1
 
